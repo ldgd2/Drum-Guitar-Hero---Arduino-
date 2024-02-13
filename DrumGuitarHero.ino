@@ -4,11 +4,11 @@
 #define BUTTON_THRESHOLD 800 // Umbral para los botones pulsadores, ajusta según sea necesario
 
 // Definición de los pines para los botones y los sensores
-#define TRIANGLE_PIEZO_PIN A0    //Pad Amarillo
-#define CIRCLE_PIEZO_PIN A1     //Pad Rojo
+#define TRIANGLE_PIEZO_PIN A0    //Pad Rojo
+#define CIRCLE_PIEZO_PIN A1     //Pad Amarillo
 #define SQUARE_PIEZO_PIN A2     //Pad Azul
-#define CROSS_PIEZO_PIN A3      //Pad Verde
-#define L1_PIEZO_PIN A4         //Pad Naranja
+#define CROSS_PIEZO_PIN A3      //Pad Naranja
+#define L1_PIEZO_PIN A4         //Pad Verde
 
 #define DPAD_UP_BUTTON_PIN 2    //Arriba
 #define DPAD_DOWN_BUTTON_PIN 3  //Abajo
