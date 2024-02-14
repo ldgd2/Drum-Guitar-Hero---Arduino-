@@ -1,7 +1,7 @@
 # Drum Guitar Hero - Arduio (Uno Joy)-
 
 #-English-#
-A simple project to make a drum to play Guitar Hero, since the original batteries have been discontinued for a long time, which makes finding one at a reasonable price expensive (not only in my country, but also in others). With this project, anyone will be able to enjoy a battery at an affordable price and feel the satisfaction of having created it themselves.
+A simple project to make a drum to play Guitar Hero, since the original drums have been discontinued for a long time, which makes finding one at a reasonable price expensive (not only in my country, but also in others). With this project, anyone will be able to enjoy a drum at an affordable price and feel the satisfaction of having created it themselves.
 This project uses UnoJoy, you can download it from this link: https://github.com/AlanChatham/UnoJoy
 
 #-Español-#
