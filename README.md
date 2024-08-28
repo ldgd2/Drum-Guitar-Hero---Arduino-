@@ -7,3 +7,6 @@ This project uses UnoJoy, you can download it from this link: https://github.com
 #-Español-#
 Un proyecto sencillo para fabricar una batería para jugar Guitar Hero, dado que las baterías originales han sido descontinuadas desde hace tiempo, lo que hace que encontrar una a un precio razonable sea costoso (no solo en mi país, sino también en otros). Con este proyecto, cualquier persona podrá disfrutar de una batería a un precio asequible y sentir la satisfacción de haberla creado por sí misma.
 Este proyecto utiliza UnoJoy, puedes descargarlo desde este link: https://github.com/AlanChatham/UnoJoy
+
+
+![image](https://github.com/user-attachments/assets/2bf62421-eb8a-432d-bf78-be6976e768c5)
